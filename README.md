@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Django, NodeJS**
 
+- ⚙️ Current Stack **Python, Flask, FastAPI, Mysql, ElasticSearch, Docker, Nginx, React**  
+
 - 📫 How to reach me **azizulraihan19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
