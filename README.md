@@ -14,8 +14,6 @@
 <a href="https://www.leetcode.com/systemfraud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="systemfraud" height="30" width="40" /></a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/systemfraud)  
-
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/soliton/cf-stats/main/output/light_card.svg" />
