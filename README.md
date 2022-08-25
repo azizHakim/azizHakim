@@ -21,6 +21,7 @@
 <img height="280em" src="https://raw.githubusercontent.com/soliton/cf-stats/main/output/light_card.svg" />
 </p>
 
+![](https://raw.githubusercontent.com/soliton/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/soliton/cf-stats/main/output/light_card.svg)
 
 <h3 align="left">Languages and Tools:</h3>
