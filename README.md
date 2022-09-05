@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">A backend developer with an interest in machine learning and DevOps</h3>
 
-- 🔭 I’m currently working at **AIMS Lab, UIU as a software engineer**
+- 🔭 I’m currently working at **AIMS Lab, UIU**
 
 - 🌱 I’m currently learning **Django, NodeJS**
 
