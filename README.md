@@ -17,7 +17,7 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
-I am an ML engineer with an interest in Backend, DevOps and System design. I love python and slowly getting into JavaScript which inevitable. Interested in working on challenging projects and want to learn about every stage of software development lifecycle.
+I am an ML engineer with an interest in Backend, DevOps and System design. I love python and slowly getting into JavaScript which is inevitable. Interested in working on challenging projects and want to learn about every stage of software development lifecycle.
 
 I love reading books, outdoot activities, and becoming a coffee nerd lately.
 
