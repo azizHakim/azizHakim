@@ -37,7 +37,7 @@ I love reading books, outdoot activities, and becoming a coffee nerd lately.
 
 ## ⚡ Github Stats
 <p float="left">
-<img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<img height="250em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="250em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
