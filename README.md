@@ -1,4 +1,4 @@
-<h1 align="center">ML Explorer | Turning COffee into Code</h1>
+<h1 align="center">ML Explorer | Turning Coffee into Code</h1>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
