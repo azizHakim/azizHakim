@@ -18,9 +18,9 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
 
-I am an ML engineer with an interest in Backend, DevOps and System design. I love python and slowly getting into JavaScript which is inevitable. Interested in working on challenging projects and want to learn about every stage of software development lifecycle.
+I am an ML engineer with an interest in Backend, DevOps, and System design. Love to take ownership and work autonomously. Interested in working on challenging projects and building systems to scale.
 
-I love reading books, outdoot activities, and becoming a coffee nerd lately.
+I love reading books, outdoor activities, and becoming a coffee nerd lately.
 
 
 - 🏢 I’m currently working as a **Graduate Assistant at GVSU**
